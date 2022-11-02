@@ -1,0 +1,6 @@
+c:\users\donatas\documents\visual studio 2012\Projects\ZaidimasDP_1\ZaidimasDP_1\ZaidimasDP_1Content\obj\Windows Phone\Debug\ZaidimasDP_1Content.contentprojResolveAssemblyReference.cache
+F:\wb\ZaidimasDP_1\ZaidimasDP_1Content\obj\Windows Phone\Debug\ZaidimasDP_1Content.contentprojResolveAssemblyReference.cache
+C:\Users\Donatas\Documents\Visual Studio 2012\Projects\ZaidimasDP-1\ZaidimasDP_1\ZaidimasDP_1Content\obj\Windows Phone\Debug\ZaidimasDP_1Content.contentprojResolveAssemblyReference.cache
+C:\Users\Donatas\Documents\Visual Studio 2012\Projects\BackupZDP-1\ZaidimasDP-1\ZaidimasDP_1\ZaidimasDP_1Content\obj\Windows Phone\Debug\ZaidimasDP_1Content.contentprojResolveAssemblyReference.cache
+C:\Users\Donatas\Documents\Visual Studio 2012\Projects\ZaidimasDP-1\ZaidimasDP-1\ZaidimasDP_1\ZaidimasDP_1Content\obj\Windows Phone\Debug\ZaidimasDP_1Content.contentprojResolveAssemblyReference.cache
+C:\MyWorksPrograming\20150512-2335\ZaidimasDP-1\ZaidimasDP_1\ZaidimasDP_1Content\obj\Windows Phone\Debug\ZaidimasDP_1Content.contentprojResolveAssemblyReference.cache
